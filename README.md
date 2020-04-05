@@ -5,7 +5,8 @@ April 5th 2020
 Bikeshare
 
 ### Description
-This project gathers statistical data from U.S. bikeshare and shows it in an interactive way.
+This project gathers statistical data from U.S. bikeshare and shows it in an
+interactive way.
 
 ### Files used
 Main file:   bikeshare.py  
@@ -18,4 +19,5 @@ Data source files:
 
 
 ### Credits
-Main file template was based on Udacity's Programming for Data Science Nanodegree.
+Main file template was based on Udacity's Programming for Data Science
+Nanodegree.
